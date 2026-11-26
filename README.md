@@ -1,8 +1,9 @@
-# Proyek Akhir KOM1327 — Kecerdasan Buatan
+# Proyek Akhir KOM1327 - Kecerdasan Buatan
 
 **Topik 6:** Analisis Keputusan Evaluasi Kendaraan Menggunakan KNN dan Decision Tree
 
-Program Studi Ilmu Komputer, IPB University — Semester Ganjil 2026/2027
+Program Studi Ilmu Komputer, 
+IPB University - Semester Ganjil 2026/2027
 
 ## Kelompok 32 — Paralel 2
 
